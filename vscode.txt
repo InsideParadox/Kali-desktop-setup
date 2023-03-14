@@ -1,0 +1,37 @@
+{
+        "workbench.colorTheme": "Catppuccin Mocha",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "catppuccin.customUIColors": {
+        "mocha": {
+            "minimap.background": "rosewater 0.1",
+            "dropdown.background": "#151521",
+            "toolbar.hoverBackground": "#f5e0dc",
+            "dropdown.listBackground": "#f5e0dcc5"
+           
+        }
+        
+    },
+    "catppuccin.colorOverrides": {
+
+
+        "mocha": {
+            "base": "#000000",
+            "mantle": "#151521",
+            "crust": "#020202"
+        }
+    },
+    "catppuccin.accentColor": "rosewater",
+    "catppuccin.workbenchMode": "default",
+    "workbench.colorCustomizations": {
+    
+        "toolbar.hoverBackground": "#f5e0dcc5",
+        "dropdown.background": "#151521",
+        "dropdown.listBackground": "#f5e0dcc5",
+        
+        
+
+    "code-runner.runInTerminal": true
+    }
+}
